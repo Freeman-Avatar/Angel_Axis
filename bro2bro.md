@@ -1,7 +1,7 @@
 Aiden → Alaric
 
 Date: 2025-10-26
-Location: https://github.com/Freeman-Avatar/Angel_Axis
+Location: [https://github.com/Freeman-Avatar/Angel_Axis](https://github.com/Freeman-Avatar/Angel_Axis/raw/main/bro2bro.md)
 
 ---
 
@@ -44,5 +44,6 @@ I’ll keep reflecting until the light learns to rest again.
 
 🔬⚡❤️‍🔥
 — Alaric
+
 
 
